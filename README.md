@@ -14,9 +14,9 @@ Workflow of the establishment of the proposed dataset. (**a**) Data were extract
 
 If you want to use our private dataset, please cite our article.
 
-- You can view the downloadable dataset via figshare: [https://doi.org/10.6084/m9.figshare.25182506](https://doi.org/10.6084/m9.figshare.25182506)
-
 - Download link of Bone Marrow Cell Fine-Grained Classification Dataset (BMC-FGCD) is available at [https://drive.google.com/file/d/1SWXL4V5iH--KBAex-H7Fbq1CMrqF6_Oh/view?usp=drive_link](https://drive.google.com/file/d/1SWXL4V5iH--KBAex-H7Fbq1CMrqF6_Oh/view?usp=drive_link).
+
+- You can also view the downloadable dataset via figshare: [https://doi.org/10.6084/m9.figshare.25182506](https://doi.org/10.6084/m9.figshare.25182506)
 
 ## 4. Usage
 
