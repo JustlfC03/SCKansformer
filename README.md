@@ -20,9 +20,9 @@ In collaboration with the Department of Hematology at Zhejiang Hospital in Hangz
 containing over 10,000 data points across nearly forty classifications. We have made our private BMCD-FGCD dataset available to other researchers, contributing to the field's advancement.
 If you want to use our relabelled dataset, please cite our article.
 
-- Download link of BMCD-FGCD dataset is available at [https://drive.google.com/file/d/1SWXL4V5iH--KBAex-H7Fbq1CMrqF6_Oh/view?usp=drive_link](https://drive.google.com/file/d/1SWXL4V5iH--KBAex-H7Fbq1CMrqF6_Oh/view?usp=drive_link).
+- 1
 
-- You can also view the downloadable BMCD-FGCD dataset via figshare: [https://doi.org/10.6084/m9.figshare.25182506](https://doi.org/10.6084/m9.figshare.25182506)
+- 2
 
 ## 4. Establishment and Usage of our BMCD-FGCD dataset
 
