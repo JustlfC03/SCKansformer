@@ -35,5 +35,10 @@ If you want to use our relabelled dataset, please cite our article.
 ## 5. Citation
 
 ```
-Yifei Chen, 
+@article{chen2024sckansformer,
+  title={SCKansformer: Fine-Grained Classification of Bone Marrow Cells via Kansformer Backbone and Hierarchical Attention Mechanisms},
+  author={Chen, Yifei and Zhu, Zhu and Zhu, Shenghao and Qiu, Linwei and Zou, Binfeng and Jia, Fan and Zhu, Yunpeng and Zhang, Chenyan and Fang, Zhaojie and Qin, Feiwei and others},
+  journal={arXiv preprint arXiv:2406.09931},
+  year={2024}
+}
 ```
