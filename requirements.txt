@@ -1,0 +1,11 @@
+einops==0.8.0
+matplotlib==3.8.0
+numpy==1.26.4
+Pillow==10.3.0
+prettytable==3.10.0
+scikit_learn==1.4.1.post1
+timm==0.9.12
+torch>=2.3.0+cu118
+torchsummary==1.5.1
+torchvision>=0.18.0+cu118
+tqdm==4.66.2
