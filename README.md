@@ -10,8 +10,8 @@ We propose a novel fine-grained classification model, SCKansformer, for bone mar
 
 ## 2. Train/Test
 
-- Put the BMCD-FGCD dataset(PBC/ALL-IDB dataset) into data/BM_data(PBC_data/ALL_data)
-- Run `train_SCkansformer_cell.py` to Train/Test in data/BM_data (Put the dataset into data first)
+- Put the BMCD-FGCD dataset(PBC/ALL-IDB dataset) into data/BM_data(PBC_data/ALL_data), then split folders by category and modify `.json` format files.
+- Run `train_SCkansformer_cell.py` to Train/Test in data/BM_data (Put the dataset into data first).
 - The batch size we used is 40 for V100. If you do not have enough GPU memory, the bacth size can be reduced to 30 for GeForce RTX 4090 or 6 to save memory.
 
 ## 3. BMCD-FGCD dataset
