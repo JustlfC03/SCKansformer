@@ -19,6 +19,9 @@ We propose a novel fine-grained classification model, SCKansformer, for bone mar
 In collaboration with the Department of Hematology at Zhejiang Hospital in Hangzhou, Zhejiang Province, our team has established the Bone Marrow Cell Dataset for Fine-Grained Classification (BMCD-FGCD),
 containing over 10,000 data points across nearly forty classifications. We have made our private BMCD-FGCD dataset available to other researchers, contributing to the field's advancement.
 If you want to use our relabelled dataset, please cite our article.
+
+Download link is available at [https://drive.google.com/file/d/1hOmQ9s8eE__nqIe3lpwGYoydR4_UNRrU/view?usp=drive_link](https://drive.google.com/file/d/1NrbK-OZCgTiFhWqeboaq8OVFXPNONegv/view?usp=sharing).
+
 Details of our BMCD-FGCD dataset:
 ![image](img/Detail.png)
 
