@@ -38,9 +38,10 @@ Details of our BMCD-FGCD dataset:
 
 ```
 @article{chen2024sckansformer,
-  title={SCKansformer: Fine-Grained Classification of Bone Marrow Cells via Kansformer Backbone and Hierarchical Attention Mechanisms},
+  title={Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms},
   author={Chen, Yifei and Zhu, Zhu and Zhu, Shenghao and Qiu, Linwei and Zou, Binfeng and Jia, Fan and Zhu, Yunpeng and Zhang, Chenyan and Fang, Zhaojie and Qin, Feiwei and others},
-  journal={arXiv preprint arXiv:2406.09931},
-  year={2024}
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2024},
+  publisher={IEEE}
 }
 ```
